@@ -14,7 +14,6 @@ This project aims to predict flight departure time categories using machine lear
   - **ConfusionMatrix, ClassificationReport, and ROC Curve**: For evaluating the model’s performance.
 - **Matplotlib & Seaborn**: For data visualization (loss, accuracy, confusion matrix, ROC curve).
 - **PyTorch**: Deep learning framework used for model building, training, and evaluation.
-- **Adam Optimizer**: Optimizer used to minimize the loss function during training.
 
 ## Problem Overview
 
